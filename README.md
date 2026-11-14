@@ -2,7 +2,7 @@
 
 A calm reading shelf in the browser. Every book sits on one oak shelf: what you're reading, what you want to read and what you've finished, each easy to tell apart. Read public-domain classics inside the app, track progress and a reading streak, follow a goal for each year, read about any book, and let a small AI helper suggest real books to read next.
 
-**Live:** _add your Vercel link here_
+**Live:** [shelfie-three-henna.vercel.app](https://shelfie-three-henna.vercel.app/)
 
 ![Shelfie shelf page](docs/screenshot-shelf.png)
 
